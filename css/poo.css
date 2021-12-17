@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+label{
+	display: inline-block;
+	font-size: 25px;
+	width: 200px;
+}
+div#menu div#menu a:hover{
+	cursor: pointer;
+}
